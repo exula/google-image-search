@@ -9,7 +9,7 @@
          beStrictAboutTodoAnnotatedTests="true"
          colors="true"
          verbose="true">
-    <testsuite>
+    <testsuite name="Tests">
         <directory suffix="Test.php">tests</directory>
     </testsuite>
 
